@@ -1,0 +1,53 @@
+body {
+    background-color: darkcyan;
+}
+
+#round-photo{
+    border-radius: 50%;
+    border: 5px darkblue solid;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#photo-three-borders{
+    border: 3px blanchedalmond solid;
+}
+
+.heading-font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.link-font-size{
+    font-size: 18px;
+}
+
+.ul-colour-text{
+    color: pink
+
+}
+
+.ol-colour-text{
+    color: lightgoldenrodyellow;
+    border: 2px darkgreen dashed;
+    padding-right: 20px;
+    width: 80px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+   }
+
+#footer-position{
+    margin-top: 40px;
+}
+.ol-reformat{
+    margin: 0px;
+}
+
+.paragraph-on-bluey{
+    text-align: center;
+}
+
+#photo-one-border{
+    margin-left: 20px;
+    border: 3px blanchedalmond solid;
+}
